@@ -43,7 +43,7 @@ WEBMIN_URL="http://www.webmin.com/download/webmin-current.tar.gz"
 RUTORRENT_TRUNK_DIR="https://rutorrent.googlecode.com/svn/trunk"
 
 # The official tarballs are tried if subversion fails.
-RUTORRENT_VERSION="3.6"
+RUTORRENT_VERSION="3.8"
 RUTORRENT_CORE_NAME="rutorrent-$RUTORRENT_VERSION.tar.gz"
 RUTORRENT_PLUGINS_NAME="plugins-$RUTORRENT_VERSION.tar.gz"
 RUTORRENT_CORE_URL="https://dl.bintray.com/novik65/generic/$RUTORRENT_CORE_NAME"
